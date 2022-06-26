@@ -7,7 +7,7 @@
 ## Hello, I'm [Dawid Napora](https://napora.dev)! 👋
 Hello, I’m Dawid, front-end developer based in Częstochowa, Poland. With over 5 years of experience, creating web and mobile applications with an emphasis on usability and design, I specialize in Vue/Nuxt and Ionic frameworks.
 
-### My primary tech stack
+### Tech stack
 <p>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript">
@@ -39,4 +39,15 @@ Hello, I’m Dawid, front-end developer based in Częstochowa, Poland. With over
   <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&amp;logo=electron&amp;logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&amp;logo=wordpress&amp;logoColor=white" alt="WordPress">
+</p>
+
+### Software I work with
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColo" alt="VSCode">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="XCode">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira">
 </p>
